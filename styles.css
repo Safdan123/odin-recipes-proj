@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 220, 220);
+    color: rgb(26, 24, 24);
+}
+
+h1 {
+    font-size: 48px;    
+}
+
+#biryani-img {
+  height:auto;
+  width: 300px;
+}
+
+#pizza-img {
+    height:auto;
+    width: 300px;
+  }
+#lasagna-img {
+    height:auto;
+    width: 300px;
+  }
